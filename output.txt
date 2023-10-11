@@ -1,0 +1,96 @@
+{
+    'Account details': [
+            'Period From : 01-08-2023 To 31-08-2023', 
+            'Account Number : 1781500115179', 
+            'Customer ID : 129518', 
+            'Product Name : ISLAMIC SAVINGS A/C - BR', 
+            'Currency : BDT'
+        ], 
+    'Transection table': [
+        [
+            'DATE', 
+            'DESCRIPTION', 
+            'CHQ.NO.', 
+            'WITHDRAWAL', 
+            'DEPOSIT', 
+            'BALANCE'
+        ], 
+        [
+            '', 
+            'Balance B/F', 
+            '', 
+            '0.00', 
+            '0.00', 
+            '460.26'
+        ], 
+        [
+            '02 Aug 2023', 
+            'salary', 
+            '', 
+            '0.00', 
+            '26,000.00', 
+            '26,460.26'
+        ], 
+        [
+            '03 Aug 2023', 
+            'ATM WDL-CHANCHKOIR PURATON BUS\nST-000594226443-000000285152', 
+            '', 
+            '2,000.00', 
+            '0.00', 
+            '24,460.26'
+        ], 
+        [
+            '03 Aug 2023', 
+            'Transaction Charge\nNPSB1781500115179', 
+            '', 
+            '15.00', 
+            '0.00', 
+            '24,445.26'
+        ], 
+        [
+            '07 Aug 2023', 
+            'ATM WDL-CHANCHKOIR GRG\nATM-000595565446-000000076872', 
+            '', 
+            '15,000.00', 
+            '0.00', 
+            '9,445.26'
+        ], 
+        [
+            '07 Aug 2023', 
+            'Transaction Charge\nNPSB1781500115179', 
+            '', 
+            '15.00', 
+            '0.00', 
+            '9,430.26'
+        ], 
+        [
+            '12 Aug 2023', 
+            'ATM WDL-SABUJ KANAN\nRATM-000597635464-000000330350', 
+            '', 
+            '9,000.00', 
+            '0.00', 
+            '430.26'
+        ], 
+        [
+            '21 Aug 2023', 
+            'POS-BASHABO-000600524512-00000\n0132091', 
+            '', 
+            '140.00', 
+            '0.00', 
+            '290.26'
+        ], 
+        [
+            '21 Aug 2023', 
+            'POS-BASHABO-000600525806-00000\n0132893', 
+            '', 
+            '150.00', 
+            '0.00', 
+            '140.26'
+        ]
+    ], 
+    'Account Summery': [
+        'Opening Balance in BDT : 460.26', 
+        'Total Withdrawal in BDT : 26,320.00', 
+        'Balance (as of 31-Aug-2023) in BDT : 140.26', 'Total Deposit in BDT : 26,000.00'
+    ]
+}
