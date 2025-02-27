@@ -1,7 +1,7 @@
 {
     'Account details': [
             'Period From : 01-08-2023 To 31-08-2023', 
-            'Account Number : 1781500115179', 
+            'Account Number : 1781xxxxxx179', 
             'Customer ID : 129518', 
             'Product Name : ISLAMIC SAVINGS A/C - BR', 
             'Currency : BDT'
